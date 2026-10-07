@@ -1,0 +1,7 @@
+name = input ("Get your name").capitalize()
+surname = input ("Get your surname").capitalize()
+if isinstance (name.isalpha(), str) and isinstance (surname.isalpha(), str):
+    print (surname + "," + name)
+else:
+    print ("Incorrectly entered data")
+    # 6 zadanie

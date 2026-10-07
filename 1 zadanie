@@ -1,0 +1,4 @@
+name = str (input ("Get your name"))
+surname = str (input ("Get your surname"))
+print ("Your name and surname is:" , name, surname)
+# 1 zadanie
